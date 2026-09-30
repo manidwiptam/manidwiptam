@@ -33,7 +33,7 @@
 ###
 
 <h4 data-importer="text" align="left">
-CSE Undergraduate focused on Web Development and Python. Building practical web applications while strengthening Python, backend development, APIs, and software development fundamentals. Currently gaining hands-on experience through a MERN stack internship and exploring Reinforcement Learning with PyTorch and TorchRL.
+Computer Science undergraduate focused on Web Development, with hands-on experience through a MERN stack internship and personal projects. Experienced with HTML, CSS, JavaScript, Tailwind CSS, React, Node.js, and MongoDB, while developing Python as my primary programming language. Comfortable with Git/GitHub, API integration, debugging, and documentation-driven development.
 </h4>
 
 ###
